@@ -3,7 +3,6 @@ title: "Shiny Module Learning"
 author: "Brian S Yandell"
 date: "May 19, 2016"
 output: html_document
-test: test
 ---
 
 This project is about learning how to use Shiny modules. I developed these as my modules were crashing, and I wanted to break down into simple steps. See links below for official resources.
